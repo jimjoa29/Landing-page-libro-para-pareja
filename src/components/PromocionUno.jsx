@@ -5,7 +5,7 @@ import Fondo from '../assets/img/fondopp.jpg'
 
 const PromocionUno = () => {  
   return (
-    <section className=" flex flex-col justify-center items-center py-12"
+    <section className=" flex flex-col justify-center items-center pt-60 pb-20"
              style={{ backgroundImage: `url(${Fondo})` }}
     >
       <div>
