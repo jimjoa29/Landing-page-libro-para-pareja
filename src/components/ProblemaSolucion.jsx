@@ -3,7 +3,7 @@ import Solucion from '../assets/img/solucion.svg'
 
 const Problemasolucion = () => {
   return (
-    <section className="flex flex-col md:flex-row ">
+    <section className="flex ">
       <div><img src={Problema} alt="" /></div>
 
       <div><img src={Solucion} alt="" /></div>
