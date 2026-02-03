@@ -1,17 +1,13 @@
 import BtnComprar from "./BtnComprar"
-import Pareja from '../assets/img/promocion.png'
-import Fondo from '../assets/img/fondopp.jpg'
+import Pareja from '../assets/img/promocion2.png'
 
 
-const PromocionUno = () => {  
+
+const PromocionUno = () => {
   return (
-    <section className=" flex flex-col justify-center items-center pt-60 pb-20"
-             style={{ backgroundImage: `url(${Fondo})` }}
-    >
+    <section className="  flex flex-col justify-center items-center pt-20 ">
       <div>
-        <img src={Pareja} alt="" className="[mask-image:linear-gradient(black_30%,transparent)] 
-                                            w-3xl
-        "/>
+        <img src={Pareja} alt="parejas" className="mask-[linear-gradient(black_30%,transparent)]" />
       </div>
 
       <div>

@@ -1,9 +1,9 @@
-import Mujerlee from '../assets/img/fondonew.svg'
+import Mujerlee from '../assets/img/fondonew.webp'
 
 const Cabecera = () => {
   return (
-    <div className="w-full  ">
-      <img src= { Mujerlee } className='w-full  ' />
+    <div className="w-full">
+      <img src= {Mujerlee} className='w-full'/>
     </div>    
   )
 }
