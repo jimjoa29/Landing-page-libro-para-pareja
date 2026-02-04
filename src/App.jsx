@@ -1,6 +1,9 @@
 import FondoImagenPromocion from "./components/FondoImagen"
 import Cabecera from "./components/Cabecera"
 import Problemasolucion from "./components/ProblemaSolucion"
+import Testimonios from "./components/Testimonios"
+import Garantia from "./components/Garantia"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -8,6 +11,9 @@ function App() {
       <Cabecera />
       <Problemasolucion />      
       <FondoImagenPromocion />
+      <Testimonios />
+      <Garantia />
+      <Footer />
     </div>
   )
 }
