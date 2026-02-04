@@ -5,7 +5,7 @@ const Contenido = () => {
     <div className="">
       <h2 className='text-center text-3xl  pb-10 uppercase text-white'>¿Que Aprenderas?</h2>
       
-      <div className="text-center flex flex-col gap-5 text-white text-xl lg:text-3xl">
+      <div className="text-center flex flex-col gap-3 text-white text-xl lg:text-3xl">
         <p>✅ El Triángulo de la Crisis </p>
         <p>✅ El "Alto al Fuego"</p>
         <p>✅ Responsabilidad, no Culpa</p>

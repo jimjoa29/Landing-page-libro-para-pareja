@@ -11,7 +11,7 @@ const Testimonios = () => {
 
       <h2 className='text-white text-center text-3xl pb-10  lg:text-6xl lg:pb-20 uppercase'>Testimonios</h2>
 
-      <div className=' w-full flex flex-wrap gap-20 justify-center '>
+      <div className=' w-full flex flex-wrap gap-10 lg:gap-20 justify-center '>
         <img src={Cristina} alt="" className='w-auto h-auto' />
         <img src={Jean} alt="" className='w-auto h-auto' />
         <img src={Jazmin} alt="" className='w-auto h-auto' />
